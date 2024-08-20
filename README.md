@@ -14,4 +14,5 @@ pressing ok prompts a new line where you are able to type in another name
 ![payroll2](https://github.com/user-attachments/assets/fa6aa4af-a677-453e-80c2-be5d03b69e56)
 
 finally after you press cancel there is no longer a prompt and the avarage is calculated for all the employees, while also selcting a random name and salary
-![payroll2](https://github.com/user-attachments/assets/96bc531f-3e75-4d31-99f7-428d3243f4f1)
+
+![finalprint](https://github.com/user-attachments/assets/63a5464c-862a-483a-9d00-03ef607eab6f)
